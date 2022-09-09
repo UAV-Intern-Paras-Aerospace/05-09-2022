@@ -4,5 +4,5 @@ MAVLink inspector was not showing any Data_request from the arduino
    
 Tried 3 methods for data request from arduino and mission planner 
 1)REQUEST_DATA_STREAM                                                                                           
-2)SET_MESSAGE_INTERVAL
+2)SET_MESSAGE_INTERVAL                                                                 
 3)REQUEST_MESSAGE (COMMAND_LONG API)
